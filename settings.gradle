@@ -1,0 +1,2 @@
+rootProject.name='OitaGPS'
+include ':app'
